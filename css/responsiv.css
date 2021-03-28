@@ -1,0 +1,118 @@
+@media (max-width:1900px){
+    .dropdown-menu.show {
+        display: block;
+        width: 255px;
+    }
+}
+@media (max-width:1400px){
+    .about-img { 
+        width: 118%;
+        height: 100%;
+    }
+    .dropdown-menu.show {
+        display: block;
+        width: 255px;
+    }
+    .blog-content img { 
+        margin-left: -119px;
+    }
+}
+
+@media (max-width:1300px){
+    .n-m ul { 
+        margin-left: -185px !important;
+    }
+    .about-img {
+        width: 140%;
+        height: 100%;
+    }
+}
+@media (max-width:1200px){
+    .dropdown-menu.show {
+        display: block;
+        width: 255px;
+    }
+    .blog-content img {
+        margin-left: -81px;
+    }
+}
+@media (max-width:992px){
+    .about-img { 
+        padding: 72px;
+    }
+    .image.w-75 {
+        margin-left: 20%;
+    }
+    .n-m ul {
+        width: 616px;
+        margin-left: -339px !important;
+    }
+    .pt-item { 
+        padding: 49px;
+    }
+    .pt-item button {
+        padding: 13px 60px;
+        font-size: 20px;
+    }
+    .pt-item span { 
+        height: 86px;
+        width: 86px;
+        line-height: 86px; 
+        font-size: 36px;
+    }
+    .row.program .col-lg-3 {
+        padding-top: 94px;
+    }
+    .ti-c-c {
+        padding: 19px 0;
+    }
+    .about-img {
+        width: 93%;
+        height: 100%;
+    }
+    .form-sec form .col-lg-6 {
+        margin: 15px 0;
+    }
+    .form-sec form button {
+        width: 230px; 
+        padding: 13PX;
+        font-size: 25px;
+    }
+    .n-m ul li ul {
+        margin-left: 86px !important;
+        margin-top: -28px;
+    }
+    .row.program .col-lg-3 {
+        padding: 38px 21px;
+    }
+    .blog-content img {
+        margin-left: -159px;
+    }
+}
+@media (max-width:768px){
+    .about-img {
+        padding: 3px;
+    }
+    .n-m ul {
+        width: 616px;
+        margin-left: -249px !important;
+    }
+    .row.program .col-lg-3 {
+        padding-top: 20px !important;
+        padding: 76px;
+    }
+    .ti-c-c {
+        padding: 19px 0;
+    }
+    .about-img {
+        width: 106%;
+        height: 101%;
+    }
+    .about-img {
+        padding: 17px;
+    }
+    .blog-content img {
+        margin-left: -200px;
+    }
+}
+@media (max-width:576px){}
